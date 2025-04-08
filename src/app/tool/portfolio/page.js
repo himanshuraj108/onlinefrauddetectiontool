@@ -755,7 +755,7 @@ export default function Portfolio() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-center md:text-left mb-6 md:mb-0">
               <div className="text-xl font-bold text-blue-400 mb-2">Himanshu Raj</div>
-              // {<p className="text-gray-400 text-sm">© 2025 All rights reserved</p>}
+{/*<p className="text-gray-400 text-sm">© 2025 All rights reserved</p>*/}
             </div>
             
             <div className="flex space-x-4">
