@@ -101,9 +101,9 @@ export default function Footer() {
         </div>
         
         <div className="border-t border-gray-800 pt-6 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-gray-500 text-sm">
+                {/*<p className="text-gray-500 text-sm">
             © 2025 FruadDetection. All rights reserved.
-          </p>
+          </p>*/}
           
           <div className="mt-4 md:mt-0 relative">
             <p className="text-gray-500 text-sm">
