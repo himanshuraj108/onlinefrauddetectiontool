@@ -102,7 +102,6 @@ export default function Documentation() {
                     <div>
                       <h4 className="font-medium text-blue-400">Pro Tip</h4>
                       <p className="text-sm text-gray-300 mt-1">
-                        Disclaimers: The project should clearly state it's for educational/demonstration purposes and not guaranteed to be 100% accurate.
                         For better results, ensure your CSV contains columns like transaction date, amount, and transaction ID. The more detailed your data, the more accurate our fraud detection will be.
                       </p>
                     </div>
