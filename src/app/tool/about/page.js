@@ -26,7 +26,7 @@ export default function About() {
             <ChevronLeft className="w-5 h-5 mr-1" />
             Back to Tool
           </Link>
-          <h1 className="text-2xl font-bold ml-8">About FraudShield</h1>
+          <h1 className="text-2xl font-bold ml-8">About FraudDetection</h1>
         </div>
         
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
