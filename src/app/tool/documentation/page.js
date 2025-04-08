@@ -574,7 +574,6 @@ checkTransaction(transaction);`}
                     <h3 className="text-lg font-medium mb-2 text-blue-400">What fraud types can be detected?</h3>
                     <p className="text-gray-300">
                       The system can detect multiple fraud types including credit card fraud, identity theft, account takeovers, phishing attacks, and money laundering patterns. See the Fraud Detection section for more details.
-                      Disclaimers: The project should clearly state it's for educational/demonstration purposes and not guaranteed to be 100% accurate.
                     </p>
                   </div>
                   
