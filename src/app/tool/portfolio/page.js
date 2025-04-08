@@ -680,7 +680,7 @@ export default function Portfolio() {
                   </div>
                   <div>
                     <h3 className="text-lg font-medium mb-1">Email</h3>
-                    <p className="text-gray-400">himanshuraj48512@gmail.com</p>
+                    <p className="text-gray-400">N/A</p>
                   </div>
                 </div>
                 
