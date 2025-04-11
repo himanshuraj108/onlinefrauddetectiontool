@@ -244,10 +244,10 @@ export default function Portfolio() {
                   variants={itemVariants}
                   className="text-gray-400 max-w-2xl mb-8 leading-relaxed"
                 >
-                  B.Tech in Computer Science from Lovely Professional University. Specialized in 
-                  AI/ML with expertise in developing cutting-edge solutions that leverage neural networks, 
-                  computer vision, and natural language processing. Passionate about solving complex problems 
-                  with clean, efficient, and scalable code.
+                  B.Tech in Computer Science and Engineering (Graduating 2027) from Lovely Professional University, with a minor in Data Science.
+Experienced in prompt engineering with the ability to interact effectively with AI models to generate high-quality, functional outputs.
+Capable of building production-level web applications by leveraging AI through well-structured prompts—without writing traditional code.
+Interested in full-stack development and data structures & algorithms, with a focus on clean, efficient, and scalable solutions.
                 </motion.p>
                 
                 <motion.div 
@@ -680,7 +680,7 @@ export default function Portfolio() {
                   </div>
                   <div>
                     <h3 className="text-lg font-medium mb-1">Email</h3>
-                    <p className="text-gray-400">N/A</p>
+                    <p className="text-gray-400">himanshuraj48512@gmail.com</p>
                   </div>
                 </div>
                 
@@ -690,7 +690,7 @@ export default function Portfolio() {
                   </div>
                   <div>
                     <h3 className="text-lg font-medium mb-1">Location</h3>
-                    <p className="text-gray-400">Delhi, India</p>
+                    <p className="text-gray-400">Jalandhar, India</p>
                   </div>
                 </div>
                 
